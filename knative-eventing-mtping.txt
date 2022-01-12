@@ -1,0 +1,2 @@
+From gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:483cb5d99c578aed3e496630016e221a7e74122a021fc1ba75b9c59166c7750f
+MAINTAINER James liuyi71@sina.com
