@@ -1,0 +1,2 @@
+From gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping-webhook@sha256:0b8fe2e03c4ce979d9f98df542ce48884b46cda098006fafa7db45b7f90ccfdb
+MAINTAINER James liuyi71@sina.com
