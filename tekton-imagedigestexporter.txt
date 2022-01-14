@@ -1,0 +1,2 @@
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:latest
+MAINTAINER James liuyi71@sina.com
