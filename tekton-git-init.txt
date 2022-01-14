@@ -1,0 +1,2 @@
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:latest
+MAINTAINER James liuyi71@sina.com
