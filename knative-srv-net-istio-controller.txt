@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:1ef74af101cc89d86a2e6b37b9a74545bfd9892d48b1b036d419a635a19c0081
+From gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:3b3e93366ec18b0af7d1ea071f0917e5d853e49b48b687e9893336844917aec8
 MAINTAINER James liuyi71@sina.com
