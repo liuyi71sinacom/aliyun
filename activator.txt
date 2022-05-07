@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:c54682f20c4758aabd9e9a45805ae382ef9de8a953026a308273fb94b71719d5
+From gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:7d664e052ec0e78961dbb7b5acb62c70ba106ba1fdd46f2177ab56e1d0d360fb
 MAINTAINER James liuyi71@sina.com
