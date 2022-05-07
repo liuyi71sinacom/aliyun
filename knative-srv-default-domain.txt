@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:2ba6a66fc6a5bcdfedb53a9fceafeca008e4ad61ddd95e010a37d214c8fc6c73
+From gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:58483c512e481263f7668a53582fc66cfbd23e2beb084542bdddeced82cc11e4
 MAINTAINER James liuyi71@sina.com
