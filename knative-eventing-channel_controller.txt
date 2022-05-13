@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_controller@sha256:a6c2aea7529c05cb261e90a669f80d9087c833e1dcb04ebb03af5b57ebee398a
+From gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_controller@sha256:bcf585877a32db79b651d2560f9ae9378de26ee5ac3a6d3e63b3159b3fec32d2
 MAINTAINER James liuyi71@sina.com
