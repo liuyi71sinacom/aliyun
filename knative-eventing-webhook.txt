@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/eventing/cmd/webhook@sha256:98e759d49df0a15b969f291e882239967cbbb1b74b6c66ec4167a21b8997acb0
+From gcr.io/knative-releases/knative.dev/eventing/cmd/webhook@sha256:cbc6ee9181614a76bedd67b8f10250566a4e448e07f25da888dde3ed4f7670fb
 MAINTAINER James liuyi71@sina.com
