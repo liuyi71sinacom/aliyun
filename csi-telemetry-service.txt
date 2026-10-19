@@ -1,0 +1,2 @@
+From registry.hitachivantara.com/hitachicsi-oci-oss/hspc-csi-telemetry-service@sha256:8ad63ea03d89dee48a1b8fe33698b69491438692c5a995f8e73c57e37af7652c
+MAINTAINER James liuyi71@sina.com
