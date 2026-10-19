@@ -1,2 +1,2 @@
-From k8s.gcr.io/sig-storage/csi-attacher:v3.4.0
+registry.k8s.io/sig-storage/csi-attacher@sha256:5aaefc24f315b182233c8b6146077f8c32e274d864cb03c632206e78bd0302da
 MAINTAINER James liuyi71@sina.com
