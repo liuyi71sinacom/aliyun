@@ -1,2 +1,2 @@
-registry.k8s.io/sig-storage/livenessprobe@sha256:57dba2ee519e49afacf899af7e265d977b02ec4c1f60c9b636ab0e575612dbfd
+From registry.k8s.io/sig-storage/livenessprobe@sha256:57dba2ee519e49afacf899af7e265d977b02ec4c1f60c9b636ab0e575612dbfd
 MAINTAINER JameS liuyi71@sina.com
