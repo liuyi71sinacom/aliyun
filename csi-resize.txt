@@ -1,2 +1,2 @@
-From k8s.gcr.io/sig-storage/csi-resizer:v1.4.0
+registry.k8s.io/sig-storage/csi-resizer@sha256:5e7cbb63fd497fa913caa21fee1a69f727c220c6fa83c5f8bb0995e2ad73a474
 MAINTAINER James liuyi71@sina.com
